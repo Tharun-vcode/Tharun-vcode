@@ -153,19 +153,6 @@ The project combines machine learning, IoT sensors, APIs, and multilingual inter
 * Integrated external APIs for weather-related information.
 * Contributed to the overall integration of the AI components with the application.
 
-### Platform Features
-
-* Plant disease identification
-* Soil quality prediction
-* Fertilizer recommendations
-* AI-powered farming assistant
-* Multilingual interaction
-* Weather information
-* IoT-based soil and environmental monitoring
-* Farmer discussion/forum functionality
-* Agricultural schemes and information
-* Automated notifications
-
 ### Technologies
 
 `Python` `Streamlit` `CNN` `MobileNetV2` `Random Forest` `LLM APIs` `Groq` `Firebase` `ESP32` `IoT` `OpenWeather API` `Twilio`
