@@ -4,10 +4,6 @@
 
 I am an Electronics & Communication Engineering undergraduate at **PSG Institute of Technology and Applied Research**, interested in building reliable, scalable, and practical software systems.
 
-My primary interests are **backend development, database systems, API design, and software engineering**. I enjoy understanding how systems work behind the interface — from designing database schemas and REST APIs to implementing authentication, authorization, file storage, and integrations with external services.
-
-I also work with **AI/ML and LLM-based applications**, particularly when they can be integrated into practical software products.
-
 ---
 
 ## About Me
