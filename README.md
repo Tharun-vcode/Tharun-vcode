@@ -166,15 +166,6 @@ The project combines machine learning, IoT sensors, APIs, and multilingual inter
 * Agricultural schemes and information
 * Automated notifications
 
-### IoT Components
-
-The system integrates an **ESP32** with:
-
-* Soil moisture sensors
-* DHT temperature and humidity sensors
-
-The collected data can be used alongside the AI components to provide more context-aware agricultural recommendations.
-
 ### Technologies
 
 `Python` `Streamlit` `CNN` `MobileNetV2` `Random Forest` `LLM APIs` `Groq` `Firebase` `ESP32` `IoT` `OpenWeather API` `Twilio`
@@ -184,28 +175,6 @@ The collected data can be used alongside the AI components to provide more conte
 * **1st Prize** — Atom 2K26 Project/Research Presentation
 * **Special Mention** — Project Expo 2025, PSG Institute of Technology and Applied Research
 * Research work presented through academic/project platforms
-
----
-
-# Other Projects
-
-## CashCoach
-
-A personal finance application focused on tracking and managing financial information.
-
-### Technologies
-
-`Python` `Flask` `SQLite`
-
----
-
-## MyWeather
-
-A weather application that retrieves and presents weather information through an external weather API.
-
-### Technologies
-
-`Python` `Flask` `SQLite` `REST APIs`
 
 ---
 
