@@ -237,12 +237,13 @@ I am interested in applying machine learning and LLMs to practical applications 
 
 Some of the projects I have worked on include:
 
-| Project                                                   | Description                       | Technologies                         |
-| --------------------------------------------------------- | --------------------------------- | ------------------------------------ |
-| [StackDrive](https://github.com/Tharun-vcode/Stack_Drive) | Secure file management backend    | Node.js, Express, PostgreSQL, Prisma |
-| [CropCare](https://github.com/Tharun-vcode/CropCare)      | AI-powered smart farming platform | Python, Streamlit, ML, IoT           |
-| CashCoach                                                 | Personal finance application      | Flask, SQLite                        |
-| MyWeather                                                 | Weather information application   | Flask, SQLite, APIs                  |
+|                                  Project                                        |            Description            |               Technologies             |
+| --------------------------------------------------------------------------------| --------------------------------- | ---------------------------------------|
+| [CashCoach](https://github.com/Tharun-vcode/BCaaS-Business_Connect_as_a_Service)| B2B Gateway application           | Node.js, Express, PostgreSQL, sequelize|
+| [StackDrive](https://github.com/Tharun-vcode/Stack_Drive)                       | Secure file management backend    | Node.js, Express, PostgreSQL, Prisma   |
+| [CropCare](https://github.com/Tharun-vcode/CropCare)                            | AI-powered smart farming platform | Python, Streamlit, ML, IoT             |
+| CashCoach                                                                       | Personal finance application      | Flask, SQLite                          |
+
 
 ---
 
