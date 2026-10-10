@@ -14,13 +14,6 @@ I also work with **AI/ML and LLM-based applications**, particularly when they ca
 
 * Pursuing **B.E. in Electronics & Communication Engineering** at PSG Institute of Technology and Applied Research
 * Interested primarily in **Software Development and Backend Engineering**
-* Experience building backend applications using **Node.js, Express.js, PostgreSQL, Prisma, Sequelize, Flask, and SQLite**
-* Experience designing and integrating **REST APIs**
-* Familiar with authentication and authorization using **JWT, bcrypt, HMAC-based verification, and role-based access control**
-* Interested in **database design, API architecture, system reliability, and scalable application development**
-* Worked as a **Software Developer Intern at Niftrix Technologies**
-* Built and contributed to projects involving **cloud file storage, AI-powered agriculture, financial applications, weather applications, and backend APIs**
-* Comfortable working with **Java, C, SQL, Python, and JavaScript**
 * Currently strengthening my knowledge of **Data Structures and Algorithms, DBMS, Operating Systems, Computer Networks, and Software Engineering**
 
 ---
