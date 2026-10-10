@@ -271,31 +271,6 @@ https://www.linkedin.com/in/tharun-vijayakumar-440658322/
 **Email:**
 tharunblr62@gmail.com
 
-## Technologies I Work With
-
-```text
-Languages
-Java | C | C++ | Python | SQL | JavaScript
-
-Backend
-Node.js | Express.js | Flask | REST APIs
-
-Databases
-PostgreSQL | SQLite | Prisma | Sequelize
-
-Authentication
-JWT | bcrypt | HMAC-SHA256 | RBAC
-
-AI / ML
-CNN | MobileNetV2 | Random Forest | LLM APIs
-
-Tools
-Git | GitHub | Postman | VS Code
-
-Cloud / Services
-Cloudinary | Firebase | Azure Blob Storage
-```
-
 ---
 
 ## GitHub
