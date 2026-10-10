@@ -341,18 +341,6 @@ https://www.linkedin.com/in/tharun-vijayakumar-440658322/
 **Email:**
 tharunblr62@gmail.com
 
----
-
-## A Note About My Work
-
-Most of my projects are built with the goal of understanding how real software systems work beyond the basic implementation.
-
-Whether it is designing a relational database for a file management system, creating APIs for third-party integration, debugging an authentication workflow, or integrating an ML model into an application, I try to focus on the engineering decisions behind the implementation.
-
-I am currently focused on becoming a stronger **software engineer with a solid foundation in backend development, databases, problem solving, and system design**.
-
----
-
 ## Technologies I Work With
 
 ```text
