@@ -233,44 +233,6 @@ I am interested in applying machine learning and LLMs to practical applications 
 
 ---
 
-# What I Have Been Learning
-
-I am continuously strengthening my fundamentals in:
-
-* Data Structures and Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Software Engineering
-* REST API Architecture
-* Backend System Design
-* SQL and Database Optimization
-* Authentication and Authorization
-* Cloud and Object Storage
-* Machine Learning Fundamentals
-* LLM and API Integration
-
-# Development Approach
-
-When building a project, I generally approach it by first understanding the requirements and then breaking the system into smaller components.
-
-My typical workflow involves:
-
-1. Understanding the problem and requirements
-2. Designing the data model
-3. Defining API contracts
-4. Implementing backend functionality
-5. Adding authentication and authorization where required
-6. Testing APIs and edge cases
-7. Debugging failures by tracing the request flow
-8. Improving performance and reliability
-9. Documenting the system and its usage
-
-I particularly enjoy debugging problems where the code appears correct but the complete system does not behave as expected.
-
----
-
 # GitHub Projects
 
 Some of the projects I have worked on include:
@@ -295,38 +257,6 @@ Some of the projects I have worked on include:
 Current GPA: **8.16 / 10**
 
 My degree has given me a foundation in engineering while my projects and self-directed learning have allowed me to focus strongly on software development and backend engineering.
-
----
-
-# Research and Project Work
-
-My work on CropCare has also involved research and technical presentation activities, including work related to:
-
-* AI-powered agriculture
-* Plant disease identification
-* Soil quality analysis
-* IoT-based agricultural monitoring
-* Multilingual AI assistants
-* Low-connectivity technology solutions
-
-The project has been presented through academic and project exhibition platforms.
-
----
-
-# Currently Looking For
-
-I am interested in **Software Development and Backend Engineering opportunities**, particularly roles where I can work on:
-
-* Backend services
-* REST APIs
-* Database-driven applications
-* Distributed or scalable systems
-* Cloud-based applications
-* Software engineering
-* Developer tools and platforms
-* AI-enabled software products
-
-I am especially interested in opportunities where I can learn from experienced engineers while contributing to real-world products.
 
 ---
 
