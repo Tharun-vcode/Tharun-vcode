@@ -251,32 +251,6 @@ I am continuously strengthening my fundamentals in:
 * Machine Learning Fundamentals
 * LLM and API Integration
 
----
-
-# Problem Solving
-
-I regularly practice programming and problem-solving, particularly using Java.
-
-Current areas of focus include:
-
-* Arrays and Strings
-* Hashing
-* Two Pointers
-* Sliding Window
-* Sorting
-* Binary Search
-* Linked Lists
-* Stacks and Queues
-* Trees
-* Recursion
-* Backtracking
-* Basic Dynamic Programming
-* SQL Query Problems
-
-I focus on understanding the underlying approach and complexity rather than simply memorizing solutions.
-
----
-
 # Development Approach
 
 When building a project, I generally approach it by first understanding the requirements and then breaking the system into smaller components.
@@ -362,10 +336,10 @@ I am especially interested in opportunities where I can learn from experienced e
 https://github.com/Tharun-vcode
 
 **LinkedIn:**
-Add your LinkedIn profile here
+https://www.linkedin.com/in/tharun-vijayakumar-440658322/
 
 **Email:**
-Add your professional email here
+tharunblr62@gmail.com
 
 ---
 
