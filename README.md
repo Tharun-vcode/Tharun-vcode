@@ -18,11 +18,11 @@ I am an Electronics & Communication Engineering undergraduate at **PSG Institute
 
 ### Programming Languages
 
-`Java` `C` `C++` `Python` `SQL` `JavaScript`
+`Java` `C` `SQL`
 
 ### Backend Development
 
-`Node.js` `Express.js` `Flask` `REST APIs` `API Design` `JWT` `bcrypt`
+`Node.js` `Express.js` `REST APIs` `API Design` `JWT` `bcrypt`
 
 ### Databases
 
