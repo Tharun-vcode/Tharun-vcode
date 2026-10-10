@@ -34,15 +34,15 @@ I also work with **AI/ML and LLM-based applications**, particularly when they ca
 
 ### Authentication and Security
 
-`JWT Authentication` `Role-Based Access Control` `HMAC-SHA256` `Password Hashing` `API Rate Limiting` `Secure API Design`
+`JWT Authentication` `HMAC-SHA256` `Password Hashing` `API Rate Limiting` `Secure API Design`
 
 ### AI / Machine Learning
 
-`CNN` `MobileNetV2` `Random Forest` `LLM API Integration` `Prompt-based Applications`
+`CNN` `MobileNetV2` `Random Forest` `LLM API Integration`
 
 ### Tools and Platforms
 
-`Git` `GitHub` `Postman` `VS Code` `Firebase` `Cloudinary` `Azure Blob Storage`
+`GitHub` `Postman` `VS Code` `Cloudinary`
 
 ---
 
