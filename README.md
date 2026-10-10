@@ -14,7 +14,7 @@ I also work with **AI/ML and LLM-based applications**, particularly when they ca
 
 * Pursuing **B.E. in Electronics & Communication Engineering** at PSG Institute of Technology and Applied Research
 * Interested primarily in **Software Development and Backend Engineering**
-* Currently strengthening my knowledge of **Data Structures and Algorithms, DBMS, Operating Systems, Computer Networks, and Software Engineering**
+* Currently strengthening my knowledge of **DBMS, Operating Systems, Computer Networks, and Software Engineering**
 
 ---
 
