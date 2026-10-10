@@ -110,10 +110,6 @@ I am interested in relational database design, normalization, indexing, query op
 
 I enjoy designing REST APIs with clear request/response structures, authentication mechanisms, validation, and integration with external services.
 
-### Software Engineering
-
-I am interested in writing maintainable code, debugging production-like issues, understanding system behavior, and designing applications around practical requirements.
-
 ### Artificial Intelligence
 
 I am interested in applying machine learning and LLMs to practical applications rather than treating AI as an isolated component.
