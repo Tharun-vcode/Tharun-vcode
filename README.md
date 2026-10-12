@@ -88,7 +88,7 @@ AI-IoT platform helping farmers in rural and low-connectivity environments with 
 ### 🏢 BCaaS — B2B Gateway Application
 B2B gateway connecting platforms and communities with enterprise applications.
 `Node.js` `Express.js` `PostgreSQL` `Sequelize`
-→ [Repository](https://github.com/Tharun-vcode)
+→ [Repository](https://github.com/Tharun-vcode/BCaaS-Business_Connect_as_a_Service)
 
 ---
 
