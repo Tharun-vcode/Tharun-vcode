@@ -1,149 +1,115 @@
-# Tharun Vijayakumar
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&text=Tharun%20Vijayakumar&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-### Engineering Undergraduate | Backend Development | API Design | Database Systems
+<p align="center">
+  <b>Backend Engineering • API Design • Database Systems</b><br/>
+  ECE undergraduate @ PSG Institute of Technology and Applied Research
+</p>
 
-I am an Electronics & Communication Engineering undergraduate at **PSG Institute of Technology and Applied Research**, interested in building reliable, scalable, and practical software systems.
-
----
-
-## About Me
-
-* Pursuing **B.E. in Electronics & Communication Engineering** at PSG Institute of Technology and Applied Research
-* Interested primarily in **Software Development and Backend Engineering**
-* Currently strengthening my knowledge of **DBMS, Operating Systems, Computer Networks, and Software Engineering**
-
----
-
-## Technical Skills
-
-### Programming Languages
-
-`Java` `C` `SQL`
-
-### Backend Development
-
-`Node.js` `Express.js` `REST APIs` `API Design` `JWT` `bcrypt`
-
-### Databases
-
-`PostgreSQL` `SQLite` `Prisma` `Sequelize`
-
-### Authentication and Security
-
-`JWT Authentication` `HMAC-SHA256` `Password Hashing` `API Rate Limiting` `Secure API Design`
-
-### AI / Machine Learning
-
-`CNN` `MobileNetV2` `Random Forest` `LLM API Integration`
-
-### Tools and Platforms
-
-`GitHub` `Postman` `VS Code` `Cloudinary`
+<p align="center">
+  <a href="https://github.com/Tharun-vcode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tharun-vijayakumar-440658322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:tharunblr62@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-# Professional Experience
+## 🚀 About Me
 
-## Software Developer Intern — Niftrix Technologies
+- 🎓 Pursuing **B.E. Electronics & Communication Engineering** at PSG Institute of Technology and Applied Research (2023–2027)
+- 🧱 Focused on **backend engineering** — APIs, authentication flows, database interactions, service integrations
+- 📚 Currently strengthening **DBMS, Operating Systems, Computer Networks, and Software Engineering**
+- 🌱 Interested in applying **ML and LLMs** to practical, real-world applications
+- 🏆 1st Prize — Atom 2K26 Project/Research Presentation
 
-**May 2026 – June 2026**
+---
 
-Worked as part of a backend development team on **Biznex v2**, a Business-as-a-Service gateway designed to connect third-party platforms and communities with enterprise applications.
+## 🛠️ Tech Stack
 
-### Technologies
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+**Databases & ORMs**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+**AI / ML**
+
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-3776AB?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+---
+
+## 💼 Experience
+
+**Software Developer Intern** — *Niftrix Technologies* · `May 2026 – June 2026`
+
+Worked on the backend team for **Biznex v2**, a Business-as-a-Service gateway connecting third-party platforms and communities with enterprise applications.
 
 `Node.js` `Express.js` `PostgreSQL` `Sequelize` `REST APIs` `JWT` `HMAC-SHA256` `Postman`
 
 ---
 
-# Featured Projects
+## 📌 Featured Projects
 
-## StackDrive
+### 🔐 StackDrive — Secure & Scalable File Management Backend
+Backend-focused file management system built around secure storage, user isolation, structured folders, and cloud object storage integration.
+`Node.js` `Express.js` `PostgreSQL` `Prisma` `JWT` `bcrypt` `Cloudinary`
+→ [Repository](https://github.com/Tharun-vcode)
 
-### Secure and Scalable File Management Backend
+### 🌾 CropCare — AI-Powered Smart Farming Assistant
+AI-IoT platform helping farmers in rural and low-connectivity environments with crop health, soil analysis, and recommendations.
+`Python` `Streamlit` `CNN` `MobileNetV2` `Random Forest` `LLM APIs` `Groq` `Firebase` `ESP32` `Twilio`
+→ [Repository](https://github.com/Tharun-vcode)
 
-**Repository:** [StackDrive](https://github.com/Tharun-vcode/Stack_Drive)
-
-StackDrive is a backend-focused file management application designed around secure file storage, user isolation, structured folders, and efficient interaction with cloud object storage.
-
-### Technologies
-
-`Node.js` `Express.js` `PostgreSQL` `Prisma` `JWT` `bcrypt` `Cloudinary` `REST APIs` `Postman`
-
----
-
-# CropCare
-
-### AI-Powered Smart Farming Assistant
-
-**Repository:** [CropCare](https://github.com/Tharun-vcode/CropCare)
-
-CropCare is an AI-IoT platform designed to assist farmers, particularly in rural and low-connectivity environments, with crop health, soil analysis, farming information, and recommendations.
-
-### Technologies
-
-`Python` `Streamlit` `CNN` `MobileNetV2` `Random Forest` `LLM APIs` `Groq` `Firebase` `ESP32` `IoT` `OpenWeather API` `Twilio`
-
-### Recognition
-
-* **1st Prize** — Atom 2K26 Project/Research Presentation
-* **Special Mention** — Project Expo 2025, PSG Institute of Technology and Applied Research
-* Research work presented through academic/project platforms
+### 🏢 BCaaS — B2B Gateway Application
+B2B gateway connecting platforms and communities with enterprise applications.
+`Node.js` `Express.js` `PostgreSQL` `Sequelize`
+→ [Repository](https://github.com/Tharun-vcode)
 
 ---
 
-# Areas of Interest
+## 🏆 Recognition
 
-### Backend Engineering
-
-I enjoy building the systems behind applications, particularly APIs, authentication flows, database interactions, and service integrations.
-
-### Database Systems
-
-I am interested in relational database design, normalization, indexing, query optimization, and designing schemas that accurately represent application requirements.
-
-### API Development
-
-I enjoy designing REST APIs with clear request/response structures, authentication mechanisms, validation, and integration with external services.
-
-### Artificial Intelligence
-
-I am interested in applying machine learning and LLMs to practical applications rather than treating AI as an isolated component.
+- 🥇 **1st Prize** — Atom 2K26 Project/Research Presentation
+- 🎖️ **Special Mention** — Project Expo 2025, PSG Institute of Technology and Applied Research
+- 📄 Research work presented through academic/project platforms
 
 ---
 
-# GitHub Projects
+## 📊 GitHub Stats
 
-Some of the projects I have worked on include:
-
-|                                  Project                                        |            Description            |               Technologies             |
-| --------------------------------------------------------------------------------| --------------------------------- | ---------------------------------------|
-| [BCaaS](https://github.com/Tharun-vcode/BCaaS-Business_Connect_as_a_Service)| B2B Gateway application           | Node.js, Express, PostgreSQL, sequelize|
-| [StackDrive](https://github.com/Tharun-vcode/Stack_Drive)                       | Secure file management backend    | Node.js, Express, PostgreSQL, Prisma   |
-| [CropCare](https://github.com/Tharun-vcode/CropCare)                            | AI-powered smart farming platform | Python, Streamlit, ML, IoT             |
-
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Tharun-vcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Tharun-vcode&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
-# Education
-
-## PSG Institute of Technology and Applied Research
-
-**B.E. Electronics & Communication Engineering**
-
-**2023 – 2027**
-
----
-
-# Connect With Me
-
-**GitHub:**
-https://github.com/Tharun-vcode
-
-**LinkedIn:**
-https://www.linkedin.com/in/tharun-vijayakumar-440658322/
-
-**Email:**
-tharunblr62@gmail.com
-
----
+<p align="center">
+  <i>Building reliable, scalable, and practical software systems.</i>
+</p>
