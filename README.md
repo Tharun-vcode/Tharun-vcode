@@ -78,12 +78,12 @@ Worked on the backend team for **Biznex v2**, a Business-as-a-Service gateway co
 ### 🔐 StackDrive — Secure & Scalable File Management Backend
 Backend-focused file management system built around secure storage, user isolation, structured folders, and cloud object storage integration.
 `Node.js` `Express.js` `PostgreSQL` `Prisma` `JWT` `bcrypt` `Cloudinary`
-→ [Repository](https://github.com/Tharun-vcode)
+→ [Repository](https://github.com/Tharun-vcode/Stack_Drive)
 
 ### 🌾 CropCare — AI-Powered Smart Farming Assistant
 AI-IoT platform helping farmers in rural and low-connectivity environments with crop health, soil analysis, and recommendations.
 `Python` `Streamlit` `CNN` `MobileNetV2` `Random Forest` `LLM APIs` `Groq` `Firebase` `ESP32` `Twilio`
-→ [Repository](https://github.com/Tharun-vcode)
+→ [Repository](https://github.com/Tharun-vcode/CropCare)
 
 ### 🏢 BCaaS — B2B Gateway Application
 B2B gateway connecting platforms and communities with enterprise applications.
